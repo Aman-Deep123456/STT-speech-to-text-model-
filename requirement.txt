@@ -1,0 +1,14 @@
+numpy
+scipy
+sounddevice
+webrtcvad
+webrtcvad-wheels
+noisereduce
+rake_nltk
+nltk
+spacy
+rapidfuzz
+vosk
+transformers
+torch
+torchaudio
