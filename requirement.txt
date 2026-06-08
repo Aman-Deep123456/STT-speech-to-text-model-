@@ -12,3 +12,6 @@ vosk
 transformers
 torch
 torchaudio
+whisper
+pandas
+python3
