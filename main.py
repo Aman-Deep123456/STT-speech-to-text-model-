@@ -15,4 +15,4 @@ def main():
     stream_microPhone(stt_function, buffer_seconds=3)
 
 if __name__ == "__main__":
-    main()
+    main() #call for the main function
